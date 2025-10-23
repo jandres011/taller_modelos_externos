@@ -3,7 +3,7 @@ Integrantes del grupo:
 Juan Mosquera,
 Anderson Bornachera
 
-#Reflexión técnica
+# Reflexión técnica
 Durante el desarrollo del Chatbot IA Multimodal, se consiguió unificar diversas APIs de inteligencia artificial dentro de una sola plataforma adaptable y operativa. Esto permitió profundizar en la comunicación entre servicios externos, la administración de claves API y la coordinación dinámica de tareas como traducción, resumen y chat. La implementación con Gradio simplificó la creación de una interfaz interactiva sin recurrir a frameworks complejos de frontend, fortaleciendo la comprensión del flujo entre el backend y la capa visual.
 
 Entre las principales limitaciones encontradas se destacan:
