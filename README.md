@@ -1,1 +1,4 @@
-# taller_modelos_externos
+# TALLER MODELOS EXTERNOS LLMS
+Integrantes del grupo:
+Juan Mosquera
+Anderson Bornachera
